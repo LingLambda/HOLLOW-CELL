@@ -6,6 +6,5 @@
 ~~因为时间紧（两天）做的半成品，一缩再缩。~~  
 [完整demo](https://pan.baidu.com/s/1A1MtOkVaDt0kfcgD1orcDA "完整demo ")
  提取码：1145  
- 正在学习unity开发，打算学成之后重制一下空洞细胞
 
 
